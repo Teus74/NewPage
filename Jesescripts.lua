@@ -81,4 +81,8 @@ MenuUI:ButtonAdd("Brookhaven",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Teus74/NewPage/refs/heads/main/JoseHubBrookhaven.lua"))()
     MenuUI:WindowDelete()
 end)
+MenuUI:ButtonAdd("Meme sea",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Teus74/NewPage/refs/heads/main/JoseHubMemesea.lua"))()
+    MenuUI:WindowDelete()
+end)
 --open source niggas
