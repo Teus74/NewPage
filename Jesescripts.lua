@@ -85,4 +85,8 @@ MenuUI:ButtonAdd("Meme sea",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Teus74/NewPage/refs/heads/main/JoseHubMemesea.lua"))()
     MenuUI:WindowDelete()
 end)
+MenuUI:ButtonAdd("Meme sea",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Teus74/NewPage/refs/heads/main/JoseHubMM2.lua"))()
+    MenuUI:WindowDelete()
+end)
 --open source niggas
