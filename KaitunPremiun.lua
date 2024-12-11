@@ -1,7 +1,7 @@
 Loader.Window = Loader.:CreateWindow(
     {
-        Title = "Teus Hub",
-        SubTitle = "Develope by vMh~ (discord.gg/teusscripts)",
+        Title = "Jose Hub",
+        SubTitle = "Develope by vMh~ (discord.gg/josescripts)",
         TabWidth = 160,
         Size = UDim2.fromOffset(500, 290),
         Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
