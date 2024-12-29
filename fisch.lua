@@ -1,4 +1,4 @@
-Loader.Window = (
+Window = (
     {
         Title = "Jose Hub",
         SubTitle = "Develope by vMh~ (discord.gg/josescripts)",
